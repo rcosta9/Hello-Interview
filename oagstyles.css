@@ -1,5 +1,4 @@
-<style type="text/css">
-    *,
+   *,
     *::before,
 
     *::after{        
@@ -22,19 +21,22 @@ a{
     text-decoration: none;
     }
 a:link {
-color: #37C6F5;
+color: #9ee3fa;
 }
 
 a:visited {
-color: #37C6F5;
+color: #9ee3fa;
 }
 
 a:hover {
-color: #9ee3fa;
+color: #37C6F5;
 }
 
 img{
     width: 95%;
+    max-width: 500px;
+    display: block;
+    margin: 0 auto;
     }
 
 .home img {
@@ -282,4 +284,4 @@ form input[type="text"]:focus,
 
 
 
-    </style>
+
